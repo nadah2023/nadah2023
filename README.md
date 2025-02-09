@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **ML,DL,NLP**
 
-  <img src="https://raw.githubusercontent.com/nadah2023/nadah2023/output/snake.svg" alt="Snake animation" />
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
